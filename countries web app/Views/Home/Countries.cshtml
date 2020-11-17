@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "Countries";
+}
+@ViewBag.sess
+
+@{
+    string country = ViewBag.Country;
+}
+<h1>Countries</h1>
+
+<form method="post">
+    <label for="country">Choose a Country:</label>
+    <br>
+    <select id="country" name="country">
+        <option value="Kenya">Kenya</option>
+        <option value="Jamaica">Jamaica</option>
+    </select>
+    <br><br>
+    <input type="submit" value="Submit" />
+
+</form>

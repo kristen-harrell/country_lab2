@@ -1,0 +1,112 @@
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\countries web app.exe
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\countries web app.deps.json
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\countries web app.runtimeconfig.json
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\countries web app.runtimeconfig.dev.json
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\countries web app.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\countries web app.pdb
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\countries web app.Views.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\countries web app.Views.pdb
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\countries web app.AssemblyInfoInputs.cache
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\countries web app.AssemblyInfo.cs
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\countries web app.csproj.CoreCompileInputs.cache
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\countries web app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\countries web app.RazorAssemblyInfo.cache
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\countries web app.RazorAssemblyInfo.cs
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\staticwebassets\countries web app.StaticWebAssets.Manifest.cache
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\staticwebassets\countries web app.StaticWebAssets.xml
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\scopedcss\bundle\countries web app.styles.css
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\countries web app.TagHelpers.input.cache
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\countries web app.TagHelpers.output.cache
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\countries web app.RazorCoreGenerate.cache
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\countries web app.RazorTargetAssemblyInfo.cache
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\countries web app.RazorTargetAssemblyInfo.cs
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\countries web app.Views.pdb
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\countries web app.csproj.CopyComplete
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\countries web app.dll
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\countries web app.pdb
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\countries web app.genruntimeconfig.cache
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\Razor\Views\Home\Countries.cshtml.g.cs
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\Razor\Views\Home\CountrySelection.cshtml.g.cs
+C:\Users\harre\source\repos\countries web app\countries web app\obj\Debug\netcoreapp3.1\Razor\Views\Home\CountryDescription.cshtml.g.cs
